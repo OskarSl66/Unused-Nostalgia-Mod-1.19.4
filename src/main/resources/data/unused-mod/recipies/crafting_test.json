@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gRg",
+        "RER",
+        "gRg"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block",
+        "count": 9
+    }
+}
